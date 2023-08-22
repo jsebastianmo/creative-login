@@ -36,7 +36,7 @@ body{
     border-radius: 20px;
     background: repeating-conic-gradient(from var(--a), #45f3ff 0%, #45f3ff 5%, transparent 5%, transparent 35%, #45f3ff 50%);
     animation: moving 4s linear infinite;
-    animation-delay: -4s;
+    animation-delay: 4s;
 }
 
 @property --a{
